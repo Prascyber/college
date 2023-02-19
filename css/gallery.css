@@ -1,0 +1,45 @@
+body {
+    margin: 40px;
+    padding: 40px;
+    scroll-behavior: smooth;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(to right, #8fccd4d3, #000000a8), 
+    url(../img/Homepage.JPG);
+    background-size: cover;
+    background-position: top;
+    /* position: relative; */
+    backdrop-filter: blur(2px);
+}
+h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 65px;
+    color: rgb(34, 37, 36);
+    
+}
+p{
+    text-align: center;
+}
+
+#testimonials {
+
+    /* background-color: #c9b3b3; */
+    text-align: center;
+  }
+  .carousel-item {
+    padding: 7% 15%;
+  }
+  .testimonial-image {
+    width: 60%;
+  
+    border-radius: 20px;
+  }
+ .h1{
+    font-style: italic;
+    color: blue;
+ }
+ .lets{
+    color: rgb(255, 250, 250);
+ }
+
